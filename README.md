@@ -1,6 +1,6 @@
 ## CGLearn: Consistent Gradient-based Learning for Out-of-Distribution Generalization
 
-This source code is an implementation of the paper - [CGLearn](https://arxiv.org/pdf/2411.06040).
+This source code is an implementation of the paper - [CGLearn](https://www.scitepress.org/Papers/2025/132604/132604.pdf).
 
 ## Key Contributions
 
@@ -34,4 +34,4 @@ This source code is an implementation of the paper - [CGLearn](https://arxiv.org
 
 ---
 
-For more details, please refer to the full paper: [CGLearn](https://arxiv.org/pdf/2411.06040).
+For more details, please refer to the full paper: [CGLearn](https://www.scitepress.org/Papers/2025/132604/132604.pdf).
