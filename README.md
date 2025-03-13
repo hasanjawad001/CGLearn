@@ -35,3 +35,27 @@ This source code is an implementation of the paper - [CGLearn](https://www.scite
 ---
 
 For more details, please refer to the full paper: [CGLearn](https://www.scitepress.org/Papers/2025/132604/132604.pdf).
+
+## Citation
+If you find our work useful, please consider citing and starring our repository:
+
+### **Harvard**  
+```
+Chowdhury, J. and Terejanu, G. (2025). CGLearn: Consistent Gradient-Based Learning for Out-of-Distribution Generalization. In Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods - ICPRAM; ISBN 978-989-758-730-6; ISSN 2184-4313, SciTePress, pages 103-112. DOI: 10.5220/0013260400003905
+```
+
+### **BibTeX**  
+```
+@conference{chowdhury2025cglearn,
+  author={Jawad Chowdhury and Gabriel Terejanu},
+  title={CGLearn: Consistent Gradient-Based Learning for Out-of-Distribution Generalization},
+  booktitle={Proceedings of the 14th International Conference on Pattern Recognition Applications and Methods - ICPRAM},
+  year={2025},
+  pages={103-112},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0013260400003905},
+  isbn={978-989-758-730-6},
+  issn={2184-4313}
+}
+```
